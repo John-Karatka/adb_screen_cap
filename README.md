@@ -1,15 +1,15 @@
 # ADB SCREEN CAPTURE TOOL
 
-##Capture video or pictures of an Android device over ADB
+## Capture video or pictures of an Android device over ADB
 
 
-##VIDEOS
+## VIDEOS
 - Run Video.bat
 - The file name will be the date/time it was taken, format yymmdd_hhmmss.
 
 
 
-##PICTURES
+## PICTURES
 - Run Picture.bat
 - This will screenshot whatever is on the device screen.
 - The file name will be the date/time it was taken, format yymmdd_hhmmss.
